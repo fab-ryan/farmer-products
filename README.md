@@ -38,5 +38,6 @@ Visit http://localhost in your browser to access the application.
 <img width="1440" alt="Screenshot 2023-11-26 at 16 06 50" src="https://github.com/fab-ryan/farmer-products/assets/39263071/d7f31845-6a32-4c16-a4a4-93a3c9beab6d">
 <img width="1440" alt="Screenshot 2023-11-26 at 16 06 44" src="https://github.com/fab-ryan/farmer-products/assets/39263071/5d7b4246-61bc-466f-be67-3a05a7eed8c8">
 <img width="1440" alt="Screenshot 2023-11-26 at 16 06 34" src="https://github.com/fab-ryan/farmer-products/assets/39263071/50125d72-7d88-4c45-9fc8-90aa89630e93">
-![Screenshot 2023-11-26 at 16 06 17](https://github.com/fab-ryan/farmer-products/assets/39263071/c2ee56bc-369c-4a78-9060-e2292cc19ce3)
+<img width="1440" alt="Screenshot 2023-11-26 at 16 06 50" src="https://github.com/fab-ryan/farmer-products/assets/39263071/07d5695a-a112-41f2-85aa-4c48dbd16e46">
+
 

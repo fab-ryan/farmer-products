@@ -13,7 +13,7 @@ This Laravel project facilitates the registration of farmer products and provide
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/farmer-product-registration.git
+git clone https://github.com/fab-ryan/farmer-products.git
 cd farmer-product-registration
 composer install
 cp .env.example .env

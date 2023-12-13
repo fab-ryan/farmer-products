@@ -24,7 +24,22 @@ cp .env.example .env
 
 # To stop the containers
 ./vendor/bin/sail down
+
+# To start without using docker
+# After cloning do this:
+
+composer install
+
+cp .env.example .env
+
+create database
+
+php artisan key:generate
+
+php artisan server
+
 ```
+
 
 Visit http://localhost in your browser to access the application.
 
